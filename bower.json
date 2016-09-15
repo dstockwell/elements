@@ -1,7 +1,7 @@
 {
   "name": "elements",
   "keywords": [
-    "element-collection",
+    "element-collection"
   ],
   "dependencies": {
     "paper-badge": "PolymerElements/paper-badge#^1.0.0",
