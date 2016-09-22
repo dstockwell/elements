@@ -4,10 +4,10 @@
     "element-collection"
   ],
   "dependencies": {
-    "paper-elements": "PolymerElements/paper-elements#master",
-    "iron-elements": "PolymerElements/iron-elements#master",
-    "app-elements": "PolymerElements/app-elements#master",
-    "gold-elements": "PolymerElements/gold-elements#master",
+    "paper-elements": "PolymerElements/paper-elements",
+    "iron-elements": "PolymerElements/iron-elements",
+    "app-elements": "PolymerElements/app-elements",
+    "gold-elements": "PolymerElements/gold-elements",
     "google-elements": "GoogleWebComponents/google-web-components"
   }
 }
